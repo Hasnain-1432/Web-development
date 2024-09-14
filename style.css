@@ -1,0 +1,33 @@
+.container{
+    background-color: rgb(247, 212, 147);
+}
+
+.container h1{
+    text-align: center;
+}
+.col-md-6 label {
+    color: rgb(243, 38, 38);
+    font-size: 25px;
+    margin-left: 20px;
+    
+}
+.col-md-6 input{
+    border: 1px solid black;
+    width: 300px;
+    margin-left: 20px;
+   
+}
+#result{
+    color: beige;
+    background-color: black;
+}
+.col-md-6{
+    border: 1px solid rgb(0, 13, 255);
+    height: 400px;
+}
+#Calculate{
+    margin-left: 20px;
+    color: rgb(240, 213, 213);
+    font-size: 20px;
+    
+}
